@@ -1,7 +1,9 @@
 **PROFILE**   
 
-Hi, I'm Lavanya Vinnakota
-**ASIC Engineer (SoC Functional Verification)** at **Alphawave Semi**
+Hi, I'm Lavanya Vinnakota  
+
+**ASIC Engineer (SoC Functional Verification)** at **Alphawave Semi**  
+
 I’m passionate about building high-quality verification environments and developing a deep understanding of **digital design, RTL verification, and chip architecture**.  
 My goal is to strengthen my expertise in **SystemVerilog, UVM**, and **industry-standard protocols** by working on hands-on projects and reusable verification components.
   
